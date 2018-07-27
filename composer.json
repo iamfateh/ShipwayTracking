@@ -1,0 +1,16 @@
+{
+    "name": "vikas/shipwaytracking",
+    "description": "Shipway Module magento 2",
+    "type": "magento2-module",
+    "require": {
+        "vikas/shipwaytracking": "dev-master"
+    },
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Onjection",
+            "email": "contact@onjection.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
