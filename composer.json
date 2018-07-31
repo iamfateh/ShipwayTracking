@@ -9,5 +9,13 @@
             "email": "contact@onjection.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "vikas\\shipwaytracking\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
 }
